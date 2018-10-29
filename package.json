@@ -1,0 +1,32 @@
+{
+  "name": "react-adopt-and-apollo",
+  "version": "1.0.0",
+  "description":
+    "A simple todo app using React Adopt, Apollo and consuming a graphql server by GraphCool",
+  "keywords": ["react", "react-adopt", "render-props", "graphql", "apollo"],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "apollo-boost": "0.1.4",
+    "emotion": "latest",
+    "emotion-normalize": "7.0.1",
+    "graphql": "0.13.2",
+    "grid-styled": "3.2.1",
+    "ramda": "0.25.0",
+    "react": "16.2.0",
+    "react-adopt": "0.2.5",
+    "react-apollo": "2.1.2",
+    "react-dom": "16.2.0",
+    "react-emotion": "9.1.0",
+    "react-feather": "1.0.8",
+    "react-powerplug": "0.1.5",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
